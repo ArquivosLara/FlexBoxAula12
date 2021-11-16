@@ -1,0 +1,73 @@
+#cotainer{
+    display: flex; /*Tornar a coluna flexivel*/
+    /*flex-direction: column-reverse; Direção da coluna*/ 
+    /*flex-wrap: wrap-reverse; Com telas menores ira alinhar itens a baixo*/
+    /*flex-flow: column wrap; Jução de Flex-direction e flex wrap*/
+    justify-content: space-evenly;
+}
+
+.item{ 
+    background-color: #ccbb;
+    width: 60px;
+    height: 40px;
+}
+
+.item2{
+    background-color: #ccbb;
+    width: 60px;
+    height: 40px;
+}
+
+.item3{
+    background-color: #ccbb;
+     width: 60px;
+    height: 40px;
+}
+
+#cotainer{
+    display: flex; /*Tornar a coluna flexivel*/
+    flex-wrap: wrap;  
+    justify-content: space-evenly;
+}
+
+.item4{ 
+    background-color: rgba(226, 37, 37, 0.733);
+    width: 60px;
+    height: 40px;
+}
+
+.item5{
+    background-color: rgba(226, 37, 37, 0.733);
+    width: 60px;
+    height: 40px;
+}
+
+.item6{
+    background-color: rgba(226, 37, 37, 0.733);
+     width: 60px;
+    height: 40px;
+}
+
+#cotainer{
+    display: flex; /*Tornar a coluna flexivel*/
+    flex-wrap: wrap;  
+    justify-content: space-evenly;
+}
+
+.item7{                
+    background-color: rgba(163, 103, 187, 0.733);                                            
+    width: 60px;
+    height: 40px;
+}
+
+.item8{
+    background-color: rgba(163, 103, 187, 0.733);
+    width: 60px;
+    height: 40px;
+}
+
+.item9{
+    background-color: rgba(163, 103, 187, 0.733);
+     width: 60px;
+    height: 40px;
+}
